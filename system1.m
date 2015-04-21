@@ -1,6 +1,6 @@
 %----------------------------system one-----------------------------------%
 clc;clear;
-file_name = 'C:\Users\觉醒的虫\Desktop\std_test_images\lake.png';
+file_name = 'F:\浙大交流课件\信息安全与数字水印\数字水印实验\std_test_images\bank.png';
 c0 = imread(file_name);
 fn = 0;
 fp = 0;
